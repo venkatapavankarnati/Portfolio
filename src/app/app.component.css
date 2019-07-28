@@ -1,0 +1,36 @@
+
+body,html {
+    margin:0 !important;
+    padding: 0 !important;
+    background-color: #191919;
+    color: #818181;
+    font-family: oswald, sans-serif;
+    font-size: 20px;
+    
+}
+.Name{
+    font-size: 50px;
+}
+.About{
+    position: absolute;
+    left : 25%;
+}
+li{
+    list-style-type: none;
+    float: left;
+}
+a{
+    color: #818181;
+    text-decoration: none;
+    padding: 5px 5px;
+    display:inline-block;
+}
+ul{
+    margin: 0px;
+    text-align: center; 
+}
+nav{
+    text-align: right;
+    padding: 10px;
+    padding-right: 3%;
+}
